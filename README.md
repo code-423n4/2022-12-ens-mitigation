@@ -49,10 +49,6 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 Each warden must submit a mitigation review for *every High and Medium finding* from the parent contest. **Incomplete mitigation reviews will not be eligible for awards.**
 
-[ ⭐️ SPONSORS ADD INFO HERE ]
-
-# Overview of changes
-
 # Findings being mitigated
 
 - [H-01: `PARENT_CANNOT_CONTROL` and `CANNOT_CREATE_SUBDOMAIN` fuses can be bypassed](https://github.com/code-423n4/2022-11-ens-findings/issues/14)
@@ -60,6 +56,13 @@ Each warden must submit a mitigation review for *every High and Medium finding* 
 - [M-01: NameWrapper: Cannot prevent transfer while upgrade even with `CANNOT_TRANSFER fuse regardless of the upgraded NameWrapper's implementation](https://github.com/code-423n4/2022-11-ens-findings/issues/6)
 - [M-02: NameWrapper: expired names behave unwrapped](https://github.com/code-423n4/2022-11-ens-findings/issues/7)
 - [M-03: NameWrapper: Wrapped to Unregistered to ignore `PARENT_CANNOT_CONTROL`](https://github.com/code-423n4/2022-11-ens-findings/issues/8)
+
+
+[ ⭐️ SPONSORS ADD INFO HERE ]
+
+# Overview of changes
+
+*Provide an overview of the changes made*
 
 # Scope
 
