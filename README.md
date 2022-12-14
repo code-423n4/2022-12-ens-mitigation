@@ -1,4 +1,4 @@
-# ✨ So you want to sponsor a contest
+# ✨ Mitigation review contest repo setup
 
 This `README.md` contains a set of checklists for our contest collaboration.
 
