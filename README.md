@@ -12,18 +12,6 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 
 ---
 
-# Contest setup
-
-## 🐺 C4: Set up repos
-- [x] Create a new private repo named `YYYY-MM-sponsorname` using this repo as a template.
-- [x] Rename this repo to reflect contest date (if applicable)
-- [x] Rename contest H1 below
-- [x] Update pot sizes
-- [x] Fill in start and end times in contest bullets below
-- [ ] Add link to submission form in contest details below
-- [x] Add sponsor to this private repo with 'maintain' level access.
-- [ ] Send the sponsor contact the url for this repo to follow the instructions below and add contracts here. 
-
 # Repo setup
 
 ## ⭐️ Sponsor: Add code to this repo
