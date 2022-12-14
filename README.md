@@ -1,10 +1,3 @@
-# ✨ Mitigation review contest repo setup
-
-This `README.md` contains a set of checklists for our contest collaboration.
-
-Your contest will use two repos: 
-- **a _contest_ repo** (this one), which is used for scoping your contest and for providing information to contestants (wardens)
-- **a _findings_ repo**, where issues are submitted (shared with you after the contest) 
 # ENS - Versus Mitigation Review
 - Total Prize Pool: $9,000 USDC
 - [Warden guidelines for C4 mitigation reviews](https://code4rena.notion.site/Guidelines-for-mitigation-reviews-ed10fc5cfbf640bd8dcec66f38b343c4)
