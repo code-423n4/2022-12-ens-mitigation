@@ -69,7 +69,7 @@ Each warden must submit a mitigation review for *every High and Medium finding* 
 *List all PRs in scope in the table below -- and feel free to add notes here to emphasize areas of focus.*
 
 | URL | Mitigation of | Purpose | 
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ------------- | ----------- |
 | contracts/folder/sample.sol | 123 | This contract does XYZ | 
 
 # Additional Context
