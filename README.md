@@ -41,7 +41,11 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 - [ ] All information should be provided in markdown format (HTML does not render on Code4rena.com)
+- [ ] An overview of changes
 - [ ] Identify any areas of specific concern in reviewing the code
+- [ ] Contract changes
+- [ ] Updated tests
+- [ ] Updated documentation
 - [ ] Delete this checklist and all text above the line below when you're ready.
 
 ---
@@ -58,6 +62,8 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 Each warden must submit a mitigation review for *every High and Medium finding* from the parent contest. **Incomplete mitigation reviews will not be eligible for awards.**
 
 [ ⭐️ SPONSORS ADD INFO HERE ]
+
+# Overview of changes
 
 # Findings being mitigated
 
