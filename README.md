@@ -70,7 +70,11 @@ Each warden must submit a mitigation review for *every High and Medium finding* 
 
 | URL | Mitigation of | Purpose | 
 | ----------- | ------------- | ----------- |
-| https://github.com/org-url/repo-name/pull/1234 | H-01 | This PR does XYZ | 
+| https://github.com/ensdomains/ens-contracts/pull/159 | H-01 | Protects names against implied unwrapping | 
+| https://github.com/ensdomains/ens-contracts/pull/159 | H-02 | Protects names against implied unwrapping |
+| https://github.com/ensdomains/ens-contracts/pull/167 | M-01 | Add transfer check in upgrade functions |
+| https://github.com/ensdomains/ens-contracts/pull/164 | M-02 | Resolves inconsistencies in subnode states |
+| https://github.com/ensdomains/ens-contracts/pull/164 | M-03 | Resolves inconsistencies in subnode states |
 
 # Additional Context
 
