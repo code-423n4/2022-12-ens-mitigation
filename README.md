@@ -70,7 +70,7 @@ Each warden must submit a mitigation review for *every High and Medium finding* 
 
 | URL | Mitigation of | Purpose | 
 | ----------- | ------------- | ----------- |
-| contracts/folder/sample.sol | H-01 | This PR does XYZ | 
+| https://github.com/org-url/repo-name/pull/1234) | H-01 | This PR does XYZ | 
 
 # Additional Context
 
