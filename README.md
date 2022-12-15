@@ -38,7 +38,3 @@ M-02 and M-03 are related to the state of a subname. They highlighted we needed 
 | https://github.com/ensdomains/ens-contracts/pull/167 | M-01 | Add transfer check in upgrade functions |
 | https://github.com/ensdomains/ens-contracts/pull/164 | M-02 | Resolves inconsistencies in subnode states |
 | https://github.com/ensdomains/ens-contracts/pull/164 | M-03 | Resolves inconsistencies in subnode states |
-
-# Additional Context
-
-*Any additional notes can be shared here.*
