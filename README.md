@@ -29,8 +29,6 @@ M-02 and M-03 are related to the state of a subname. They highlighted we needed 
 
 # Scope
 
-*List all PRs in scope in the table below -- and feel free to add notes here to emphasize areas of focus.*
-
 | URL | Mitigation of | Purpose | 
 | ----------- | ------------- | ----------- |
 | https://github.com/ensdomains/ens-contracts/pull/159 | H-01 | Protects names against implied unwrapping | 
