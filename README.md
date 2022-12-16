@@ -1,7 +1,7 @@
 # ENS - Versus Mitigation Review
 - Total Prize Pool: $9,000 USDC
 - [Warden guidelines for C4 mitigation reviews](https://code4rena.notion.site/Guidelines-for-mitigation-reviews-ed10fc5cfbf640bd8dcec66f38b343c4)
-- Submit findings [using the C4 form](https://code4rena.com/contests/2022-12-ens-mitigation-contest/submit)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2022-12-ens-versus-mitigation-contest/submit)
 - Starts December 16, 2022 20:00 UTC
 - Ends December 21, 2022 20:00 UTC
 
